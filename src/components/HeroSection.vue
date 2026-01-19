@@ -2,7 +2,7 @@
   <section class="hero-section">
     <div class="hero-content">
       <h1 class="hero-title">传承红色基因</h1>
-      <h2 class="hero-subtitle">弘扬革命精神</h2>
+      <h2 class="hero-title">弘扬革命精神</h2>
       <p class="hero-description">
         缅怀革命先烈，学习红色文化<br>
         坚定理想信念，践行初心使命
