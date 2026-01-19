@@ -34,6 +34,7 @@ const joinUs = () => {
 .hero-section {
   display: flex;
   align-items: center;
+  justify-content: center;
   min-height: 80vh;
   background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
   color: white;
@@ -42,7 +43,7 @@ const joinUs = () => {
 
 .hero-content {
   flex: 1;
-  max-width: 600px;
+  text-align: center;
 }
 
 .hero-title {
@@ -68,6 +69,8 @@ const joinUs = () => {
 .hero-buttons {
   display: flex;
   gap: 1rem;
+  align-items: center;
+  justify-content: center;
 }
 
 .btn-primary, .btn-secondary {
@@ -101,6 +104,7 @@ const joinUs = () => {
 }
 
 .hero-image {
+  margin-top: 2rem;
   flex: 1;
   display: flex;
   justify-content: center;
