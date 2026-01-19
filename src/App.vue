@@ -18,7 +18,7 @@
     
     <footer class="footer">
       <div class="footer-content">
-        <p>&copy; ${{ new Date().getFullYear() }} 红色文化传承网. 传承红色基因，弘扬革命精神</p>
+        <p>&copy; {{ new Date().getFullYear() }} 红色文化传承网. 传承红色基因，弘扬革命精神</p>
         <p>不忘初心，牢记使命，为实现中华民族伟大复兴而努力奋斗！</p>
       </div>
     </footer>

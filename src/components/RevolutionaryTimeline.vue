@@ -102,7 +102,7 @@ const events = ref(revolutionaryEvents);
 
 .timeline-content {
   background: white;
-  padding: 2rem;
+  padding: 2rem 4rem;
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
   width: 45%;

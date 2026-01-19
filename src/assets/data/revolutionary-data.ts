@@ -52,6 +52,20 @@ export const communistValues: CommunistValue[] = [
     description: "全国各族人民大团结，同心同德建设美好家园",
     principle: "团结就是力量，团结才能胜利",
     icon: "🤝"
+  },
+  {
+    id: 5,
+    title: "改革创新",
+    description: "解放思想，与时俱进，不断推进理论创新、实践创新、制度创新",
+    principle: "发展是第一要务，创新是第一动力",
+    icon: "🚀"
+  },
+  {
+    id: 6,
+    title: "清正廉洁",
+    description: "保持共产党人的政治本色，做到干部清正、政府清廉、政治清明",
+    principle: "打铁必须自身硬，全面从严治党永远在路上",
+    icon: "✨"
   }
 ];
 
